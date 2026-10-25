@@ -1,6 +1,6 @@
 Hi, I'm Julian 👋
 
-I'm a PhD candidate in Earth System Science at UC Irvine. I study how Arctic amplification shapes midlatitude atmospheric circulation, especially the jet stream, using climate model large ensembles.
+I'm a PhD candidate in Earth System Science at UC Irvine. I study how Arctic amplification shapes midlatitude atmospheric circulation, especially the polar jet stream, using climate model large ensembles.
 
 Research interests
 
