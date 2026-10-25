@@ -22,5 +22,4 @@ Recent publications
 2. **Arnheim, J. B.**, et al. (2023). Developing a disaster-ready power grid agent through geophysically-informed fault event scenarios. *2023 IEEE PES General Meeting*. [doi:10.1109/PESGM52003.2023.10252367](https://doi.org/10.1109/PESGM52003.2023.10252367)
 3. Coburn, J. J., **J. B. Arnheim**, and S. C. Pryor (2022). Short-term forecasting of wind gusts at airports across CONUS using machine learning. *Earth and Space Science*, 9(12), e2022EA002486. [doi:10.1029/2022EA002486](https://doi.org/10.1029/2022EA002486)
 
-
 📫 jarnheim@uci.edu
