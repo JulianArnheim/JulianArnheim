@@ -18,7 +18,7 @@ Methods and tools
 
 Recent publications
 
-Arnheim, J. B., Y. Peings, and G. Magnusdottir (2025). Contrasting Arctic amplification response in the Community Earth System Model Large Ensembles and implications for the North Atlantic region. Journal of Geophysical Research: Atmospheres, 130. doi:10.1029/2024JD042490
-Arnheim, J. B., et al. (2023). Developing a disaster-ready power grid agent through geophysically-informed fault event scenarios. 2023 IEEE PES General Meeting. doi:10.1109/PESGM52003.2023.10252367
+1. **Arnheim, J. B.**, Y. Peings, and G. Magnusdottir (2025). Contrasting Arctic amplification response in the Community Earth System Model Large Ensembles and implications for the North Atlantic region. *Journal of Geophysical Research: Atmospheres*, 130. [doi:10.1029/2024JD042490](https://doi.org/10.1029/2024JD042490)
+2. **Arnheim, J. B.**, et al. (2023). Developing a disaster-ready power grid agent through geophysically-informed fault event scenarios. *2023 IEEE PES General Meeting*. [doi:10.1109/PESGM52003.2023.10252367](https://doi.org/10.1109/PESGM52003.2023.10252367)
 
 📫 jarnheim@uci.edu
