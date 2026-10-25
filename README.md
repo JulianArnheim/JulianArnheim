@@ -4,18 +4,17 @@ I'm a PhD candidate in Earth System Science at UC Irvine. I study how Arctic amp
 
 Research interests
 
-Arctic amplification and Arctic–midlatitude linkages
-Jet-stream dynamics and large-scale circulation
-Separating forced climate change from internal variability
-Climate model evaluation
-Weather forecasting
+- Arctic amplification and Arctic–midlatitude linkages
+- Jet-stream dynamics and large-scale circulation
+- Separating forced climate change from internal variability
+- Climate model evaluation
+- Weather forecasting
 
 Methods and tools
 
-Climate model large ensembles
-Python (xarray, NumPy, Matplotlib, Cartopy), MATLAB, R
-Machine learning for geoscience
-Google Earth Engine, LaTeX
+- Climate model large ensembles (like CESM-LENS)
+- Python (xarray, NumPy, Matplotlib, Cartopy), MATLAB, R
+- Machine learning methods for geoscience
 
 Recent publications
 
