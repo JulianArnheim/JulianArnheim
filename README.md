@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Julian 👋
 
-<!--
-**JulianArnheim/JulianArnheim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD candidate in Earth System Science at UC Irvine. I study how Arctic amplification shapes midlatitude atmospheric circulation, especially the jet stream, using climate model large ensembles.
 
-Here are some ideas to get you started:
+Research interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Arctic amplification and Arctic–midlatitude linkages
+Jet-stream dynamics and large-scale circulation
+Separating forced climate change from internal variability
+Climate model evaluation
+Weather forecasting
+
+Methods and tools
+
+Climate model large ensembles
+Python (xarray, NumPy, Matplotlib, Cartopy), MATLAB, R
+Machine learning for geoscience
+Google Earth Engine, LaTeX
+
+Recent publications
+
+Arnheim, J. B., Y. Peings, and G. Magnusdottir (2025). Contrasting Arctic amplification response in the Community Earth System Model Large Ensembles and implications for the North Atlantic region. Journal of Geophysical Research: Atmospheres, 130. doi:10.1029/2024JD042490
+Arnheim, J. B., et al. (2023). Developing a disaster-ready power grid agent through geophysically-informed fault event scenarios. 2023 IEEE PES General Meeting. doi:10.1109/PESGM52003.2023.10252367
+
+📫 jarnheim@uci.edu
