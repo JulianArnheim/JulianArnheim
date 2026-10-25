@@ -8,7 +8,7 @@ Research interests
 - Separating forced climate change from internal variability
 - Climate model evaluation
 - Dynamical and statistical weather forecasting
-- Extreme events and their impacts on energy, infrastructure, and society
+- Extreme events and their impacts on energy systems, infrastructure, and society
 
 Methods and tools
 
