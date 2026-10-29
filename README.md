@@ -16,10 +16,6 @@ I'm a PhD candidate in Earth System Science at UC Irvine 🌎. I study how Arcti
 🐍 Python (xarray, NumPy, Matplotlib, Cartopy), MATLAB, R\
 🤖 Machine learning methods for the geosciences
 
-### 🌀 Featured project
-
-[**ClimVarChange**](https://github.com/JulianArnheim/ClimVarChange): scripts for computing and visualizing diagnostics of climate variability and change in reanalysis data, with a focus on Arctic amplification, midlatitude jet stream and blocking behavior, and their linkages.
-
 ### 📄 Recent publications
 
 1. **Arnheim, J. B.**, Y. Peings, and G. Magnusdottir (2025). Contrasting Arctic amplification response in the Community Earth System Model Large Ensembles and implications for the North Atlantic region. *Journal of Geophysical Research: Atmospheres*, 130. [doi:10.1029/2024JD042490](https://doi.org/10.1029/2024JD042490)
