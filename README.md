@@ -12,7 +12,7 @@ I'm a PhD candidate in Earth System Science at UC Irvine 🌎. I study how Arcti
 
 ### 🛠️ Methods and tools
 
-📊 Climate model large ensembles (e.g., CESM-LENS)\
+📊 Climate model large ensembles (e.g., CESM-LENS, E3SM)\
 🐍 Python (xarray, NumPy, Matplotlib, Cartopy), MATLAB, R\
 🤖 Machine learning methods for the geosciences
 
